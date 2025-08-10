@@ -32,7 +32,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-
+snake_game_apk_release/
 # Symbolication related
 app.*.symbols
 
